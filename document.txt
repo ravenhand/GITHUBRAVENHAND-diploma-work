@@ -1,3 +1,13 @@
 Első körben le kell töltsük a GitBash nevű software-t, melyett itt tehetsz meg: [Git](https://gitforwindows.org/)
 
-Ha feltelepítettük, indítsuk el a programot, majd az alábbi paranncsal hozzunk létre egy mappát: `mkdir "mappa_neve"`
+Ha feltelepítettük, indítsuk el a programot, majd az alábbi paranncsal hozzunk létre egy mappát: 
+
+`mkdir "mappa_neve"`
+
+Ez után hajtsuk végre a további parancssort:
+
+Felhasználónév
+`git config --global user.name 'NEVED'`
+
+E-mail cím (amivel a GitHub-ra regisztráltál)
+`git config --global user.email 'EMAIL_CÍMED'`
