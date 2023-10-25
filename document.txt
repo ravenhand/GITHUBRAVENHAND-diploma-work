@@ -11,3 +11,7 @@ Felhasználónév
 
 E-mail cím (amivel a GitHub-ra regisztráltál)
 `git config --global user.email 'EMAIL_CÍMED'`
+
+Inicializájuk a létrehozott mappát
+
+`git init`
