@@ -1,0 +1,3 @@
+Első körben le kell töltsük a GitBash nevű software-t, melyett itt tehetsz meg: [Git](https://gitforwindows.org/)
+
+Ha feltelepítettük, indítsuk el a programot, majd az alábbi paranncsal hozzunk létre egy mappát: `mkdir "mappa_neve"`
